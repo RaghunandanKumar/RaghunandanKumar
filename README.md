@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/Style-Thesis%20First-ca8a04?style=for-the-badge" alt="Thesis first" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/naishadamraghunandankumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Naishadam%20Raghunandan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+</div>
+
 ## About Me
 
 I build decision systems where evidence comes before automation.
@@ -100,3 +106,7 @@ Publish when clean
 ## Philosophy
 
 > Build systems that can explain themselves.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/naishadamraghunandankumar/)
