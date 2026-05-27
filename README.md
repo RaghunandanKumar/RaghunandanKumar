@@ -27,12 +27,12 @@
 
 ## About Me
 
-I build decision systems where evidence comes before automation.
+I am a data engineer focused on building scalable data infrastructure, analytics systems, and ML-adjacent workflows that improve data-driven decision-making.
 
-- Building decision systems for research, monitoring, and controlled execution
-- Biasing toward **auditable AI systems**, clear contracts, and explicit safety gates over black-box magic
-- Shipping **small vertical slices** that work end to end instead of broad speculative scaffolding
-- Doing **real OSS contributions** when useful: inspect repo norms, find a seam, fix something concrete, verify, publish
+- Building data pipelines and infrastructure for large-scale analytics workloads
+- Working across **data engineering, machine learning, analytics, and insights**
+- Interested in cloud data platforms, streaming systems, and reliable backend workflows
+- Preferring systems that are scalable, explainable, and useful in real production settings
 
 <table>
   <tr>
@@ -48,10 +48,10 @@ I build decision systems where evidence comes before automation.
     <td width="50%" valign="top">
       <h3>Current Focus</h3>
       <ul>
-        <li>Portfolio intelligence and monitoring</li>
-        <li>Autonomous paper-trading infrastructure</li>
-        <li>LLM-assisted reasoning with hard guardrails</li>
-        <li>Clean product and code-review quality</li>
+        <li>Scalable data infrastructure and pipeline design</li>
+        <li>Big data and cloud platform workflows</li>
+        <li>Machine learning support systems and analytics enablement</li>
+        <li>Clean engineering and end-to-end delivery</li>
       </ul>
     </td>
   </tr>
